@@ -1,5 +1,5 @@
-﻿# RoboSpeak_Python_based
-# **Your PC Speak**
+﻿# RoboSpeak Python based
+
 
 This Python script allows you to make your device speak out the text you enter. It uses the `pyttsx3` library to convert text to speech.
 
