@@ -10,7 +10,7 @@ This Python script allows you to make your device speak out the text you enter. 
 ## **Usage**
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install pyttsx3`.
-3. Run the script by executing `python your_pc_speak.py`.
+3. Run the script by executing `python main.py`.
 4. Enter the text you want your device to speak. To exit the program, type 'q'.
 
 ## **Notes**
